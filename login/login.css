@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.modal{
+    background-color: #ccc;
+    height: 310px;
+    width: 260px;
+}
+body{
+    background-image: url("../assents/images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#logo-img{
+    height: 60px;
+    width: 200px;
+}
+input{
+    height: 25px;
+    width: 195px;
+}
